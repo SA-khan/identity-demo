@@ -5,6 +5,10 @@
     {
       "library": "twitter-bootstrap@5.2.3",
       "destination": "wwwroot/lib/twitter-bootstrap"
+    },
+    {
+      "library": "qrcodejs@1.0.0",
+      "destination": "wwwroot/lib/qrcode"
     }
   ]
 }

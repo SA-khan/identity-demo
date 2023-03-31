@@ -18655,8 +18655,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Software\\Saad\\dotnet-practice-2\\identity-demo\\IdentityApp\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Software\\Saad\\dotnet-practice-2\\identity-demo\\IdentityApp\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Software\\Saad\\dotnet-practice-2\\identity-demo\\IdentityApp\\Views\\Shared\\_CustomIdentityLayout.cshtml",
+      "TargetPath": "Views\\Shared\\_CustomIdentityLayout.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18672,6 +18682,11 @@
     {
       "FilePath": "c:\\Software\\Saad\\dotnet-practice-2\\identity-demo\\IdentityApp\\Views\\Store\\Index.cshtml",
       "TargetPath": "Views\\Store\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Software\\Saad\\dotnet-practice-2\\identity-demo\\IdentityApp\\Views\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Views\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
